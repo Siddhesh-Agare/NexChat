@@ -7,7 +7,7 @@ import ChatPage from './pages/ChatPage'
 import AuthPage from './pages/AuthPage'
 import { Routes, Navigate } from 'react-router'
 import { useAuth } from '@clerk/react'
-import PageLoader from './components/chat/PageLoader'
+import PageLoader from './components/PageLoader'
 import { useAuthStore } from "./store/useAuthStore";
 import { useEffect } from "react";
 
