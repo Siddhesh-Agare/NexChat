@@ -101,7 +101,7 @@ docker run -p 3001:3001 nexchat
 
 ## 📸 Screenshots
 
-_Add your application screenshots here._
+
 <img width="1356" height="628" alt="image" src="https://github.com/user-attachments/assets/ca8872e8-b8cd-44a5-9a21-5833d0a2309e" />
 
 
